@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>Harold Abelson and Gerald Jay Sussman with Julie Sussman</string>
+	<key>book-info</key>
+	<dict>
+		<key>package-file-hash</key>
+		<string>7B975F27B4B637394F95BFB6C7D15A58</string>
+		<key>unique-id</key>
+		<integer>8905691412288649017</integer>
+	</dict>
+	<key>itemName</key>
+	<string>Structure and Interpretation of Computer Programs</string>
+	<key>playlistName</key>
+	<string>Structure and Interpretation of Computer Programs</string>
+</dict>
+</plist>
